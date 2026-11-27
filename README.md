@@ -144,7 +144,7 @@ O MP10 foi agregado pela média de 24 h, base do limite de 45 µg/m³ da OMS (WO
 
 <sub>Fonte: elaborado pelos autores.</sub>
 
-![Figura 1](imagens/figura1.png)
+![Figura 1](figura1.png)
 
 **Figura 1 - Distribuição do percentual de horas do dia com vento vindo do setor de 90° a 135°. A linha tracejada marca o corte de 25%.**
 
@@ -154,7 +154,7 @@ O setor de 90° a 135° foi traçado no mapa de direção dos ventos a partir de
 
 Das 1.391 internações não eletivas, 446 ocorreram em 2023, 387 em 2024 e 558 em 2025. A média foi de 1,27 internação por dia, com 375 dias sem internação e máximo de 6. A distribuição mensal, na Figura 2, mostra picos de outono e de início do inverno em todos os anos. As internações do fim de 2025 podem estar subestimadas se parte delas foi faturada em 2026.
 
-![Figura 2](imagens/figura2.png)
+![Figura 2](figura2.png)
 
 **Figura 2 - Internações respiratórias não eletivas por mês, Rio Claro, 2023 a 2025.**
 
@@ -188,7 +188,7 @@ A Tabela 3 compara a média de internações e o percentual de dias ALTA entre a
 
 O K-means agrupou os dias por perfil de poluição e clima a partir de seis variáveis padronizadas, o MP10 do dia, a média do MP10 nos 4 dias anteriores, a mediana da temperatura, a umidade mínima, a mediana da velocidade do vento e o percentual de horas com vento do setor. As internações não entraram no agrupamento e foram comparadas depois, entre os grupos. Foram usados 1.076 dias completos.
 
-![Figura 3](imagens/figura3.png)
+![Figura 3](figura3.png)
 
 **Figura 3 - Cotovelo da inércia e coeficiente de silhueta para k de 2 a 8.**
 
@@ -236,7 +236,7 @@ Para entender por que as regras de maior lift combinam MP10 alto com umidade alt
 
 O pico de internações ocorre em abril e maio, com 1,76 a 1,94 internação por dia, enquanto o pico de MP10 ocorre em agosto e setembro, com médias de 64 a 66 µg/m³, quando as internações caem para 0,99 a 1,23 por dia. Os 142 dias com MP10 acima do limite e umidade alta concentram-se de maio a julho, no início do período seco e ainda no período viral.
 
-![Figura 4](imagens/figura4.png)
+![Figura 4](figura4.png)
 
 **Figura 4 - Médias mensais de internações por dia e de MP10, Rio Claro, 2023 a 2025.**
 
